@@ -1,0 +1,14 @@
+info face="Kristen ITC" size=64 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=0 aa=2 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=64 base=48 scaleW=256 scaleH=64 pages=1 packed=0 alphaChnl=0 redChnl=4 greenChnl=4 blueChnl=4
+page id=0 file="bmpfont-hd.png"
+chars count=10
+char id=48   x=203   y=0     width=26    height=30    xoffset=1     yoffset=18    xadvance=28    page=0  chnl=15
+char id=49   x=183   y=0     width=19    height=32    xoffset=1     yoffset=17    xadvance=21    page=0  chnl=15
+char id=50   x=114   y=0     width=23    height=32    xoffset=0     yoffset=17    xadvance=23    page=0  chnl=15
+char id=51   x=161   y=0     width=21    height=32    xoffset=0     yoffset=17    xadvance=21    page=0  chnl=15
+char id=52   x=67    y=0     width=21    height=35    xoffset=1     yoffset=16    xadvance=23    page=0  chnl=15
+char id=53   x=21    y=0     width=22    height=35    xoffset=0     yoffset=15    xadvance=23    page=0  chnl=15
+char id=54   x=0     y=0     width=20    height=37    xoffset=2     yoffset=14    xadvance=22    page=0  chnl=15
+char id=55   x=89    y=0     width=24    height=33    xoffset=0     yoffset=17    xadvance=24    page=0  chnl=15
+char id=56   x=138   y=0     width=22    height=32    xoffset=1     yoffset=17    xadvance=24    page=0  chnl=15
+char id=57   x=44    y=0     width=22    height=35    xoffset=1     yoffset=17    xadvance=24    page=0  chnl=15
